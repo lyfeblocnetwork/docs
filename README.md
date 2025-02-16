@@ -1,4 +1,4 @@
-[![Deploy](https://github.com/lyfeblocnetwork/docs/actions/workflows/deploy.yml/badge.svg)](https://github.com/lyfeblocnetwork/docs/actions/workflows/deploy.yml)
+
 
 # Lyfebloc Documentation Site
 
