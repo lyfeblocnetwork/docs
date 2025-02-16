@@ -114,8 +114,7 @@ export default {
     socialLinks: [
       { icon: "github", link: "https://github.com/lyfeblocnetwork/docs" },
       { icon: "twitter", link: "https://twitter.com/LyfeblocNetwork" },
-      { icon: "youtube", link: "https://www.youtube.com" },
-      { icon: "discord", link: "https://discord.gg" },
+      { icon: "discord", link: "https://discord.com" },
       { icon: { svg: telegramSVG }, link: "https://t.me" },
     ],
 
